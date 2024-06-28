@@ -1,0 +1,34 @@
+[
+  {
+    "eventName": "Sample Event",
+    "eventDate": "2024-07-01T18:00:00Z",
+    "organizer": "Sample Organizer",
+    "email": "organizer@example.com",
+    "phone": "+1234567890",
+    "location": {
+      "street": "123 Sample St",
+      "city": "Sample City",
+      "state": "Sample State",
+      "zip": "12345"
+    },
+    "createdAt": "2024-06-27T12:43:51.395Z",
+    "updatedAt": "2024-06-27T12:43:51.395Z",
+    "id": "63a01fc4-4344-42ec-98a6-6a9bdbe39c6f"
+  },
+  {
+    "id": "5b52ba4c-952c-4422-b991-7cc0185862bf",
+    "eventName": "Food Festival",
+    "eventDate": "2024-08-05T12:00:00Z",
+    "organizer": "Foodies United",
+    "email": "info@foodiesunited.com",
+    "phone": "+15555555555",
+    "location": {
+      "street": "321 Foodie Street",
+      "city": "Culinaryville",
+      "state": "Texas",
+      "zip": "77777"
+    },
+    "createdAt": "2024-06-27T13:19:03.648Z",
+    "updatedAt": "2024-06-27T13:19:03.648Z"
+  }
+]
